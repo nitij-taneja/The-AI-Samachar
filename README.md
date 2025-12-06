@@ -1,6 +1,6 @@
 # AI Newsletter Agent - Complete Project Documentation
 
-![Demo](https://github.com/nitij-taneja/FinSight-AI/blob/main/Recording%202025-12-03%20174904-VEED.gif)
+![Demo](https://github.com/nitij-taneja/The-AI-Samachar/blob/main/AI%20Newsletter%20Agent%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft_%20Edge%202025-12-06%2015-43-28.gif)
 
 ## Overview
 
