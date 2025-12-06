@@ -4,6 +4,8 @@
 
 **AI Newsletter Agent** is a production-ready web application that demonstrates modern **agentic AI frameworks** in action. It generates personalized newsletters while providing real-time visualization of how intelligent agents collaborate to research, analyze, and create content.
 
+Video: 
+
 This project is designed to showcase:
 - Multi-agent orchestration patterns
 - Real-time AI execution visualization
