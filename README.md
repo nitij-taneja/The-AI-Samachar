@@ -1,5 +1,7 @@
 # AI Newsletter Agent - Complete Project Documentation
 
+![Demo](https://github.com/nitij-taneja/FinSight-AI/blob/main/Recording%202025-12-03%20174904-VEED.gif)
+
 ## Overview
 
 **AI Newsletter Agent** is a production-ready web application that demonstrates modern **agentic AI frameworks** in action. It generates personalized newsletters while providing real-time visualization of how intelligent agents collaborate to research, analyze, and create content.
